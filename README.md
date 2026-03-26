@@ -25,7 +25,7 @@ raise-ai-skills/
 使用 [skills CLI](https://www.npmjs.com/package/skills)：
 
 ```bash
-npx skills add micrease/raise-ai-skills --skill raise-ai-media
+npx skills add Micrease-AI/raise-ai-skills --skill raise_ai_media
 ```
 
 ### OpenClaw
@@ -33,22 +33,22 @@ npx skills add micrease/raise-ai-skills --skill raise-ai-media
 使用 [ClawHub CLI](https://clawhub.ai) 安装：
 
 ```bash
-npx clawhub@latest install raise-ai-media
+npx clawhub@latest install raise_ai_media
 ```
 
 或手动复制到 OpenClaw 技能目录：
 
 ```bash
-mkdir -p ~/.openclaw/skills/raise-ai-media
-cp -r skills/raise-ai-media/* ~/.openclaw/skills/raise-ai-media/
+mkdir -p ~/.openclaw/skills/raise_ai_media
+cp -r skills/raise_ai_media/* ~/.openclaw/skills/raise_ai_media/
 ```
 
 ### 手动安装（通用）
 
 ```bash
 # Claude Code
-mkdir -p ~/.claude/skills/raise-ai-media
-cp -r skills/raise-ai-media/* ~/.claude/skills/raise-ai-media/
+mkdir -p ~/.claude/skills/raise_ai_media
+cp -r skills/raise_ai_media/* ~/.claude/skills/raise_ai_media/
 ```
 
 ## 功能概览
