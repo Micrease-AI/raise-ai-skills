@@ -1,5 +1,5 @@
 ---
-name: RaiseAI Media
+name: raise_ai_media
 description: |
   RaiseAI 媒体生成工具集 - 生图、生视频、脚本生成、图片解析、视频解析。
   当用户提到以下任何关键词时必须触发此技能：生成图片、生成视频、图片生成、视频生成、脚本生成、
